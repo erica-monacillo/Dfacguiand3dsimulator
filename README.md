@@ -1,7 +1,7 @@
 
   # C++ GUI and 3D Simulator
 
-  This is a code bundle for C++ GUI and 3D Simulator. The original project is available at https://www.figma.com/design/kV549lBBFcvdx1QLL4PJr5/C---GUI-and-3D-Simulator.
+  This is a code bundle for C++ GUI and 3D Simulator. The original project is available at https://www.figma.com/make/kV549lBBFcvdx1QLL4PJr5/C---GUI-and-3D-Simulator?node-id=0-1&p=f&t=lyCHG4gfr5ubEYdF-0&fullscreen=1.
 
   ## Running the code
 
